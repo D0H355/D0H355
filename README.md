@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D0H355
 - 👀 I’m interested in Hatsune Miku 
-- 🌱 I’m currently learning C# and sql
+- 🌱 I’m currently learning C#, hlsl and sql
 - 📫 How to reach me: Call me ;)
 - 😄 Pronouns: Miku
 - ⚡ Fun fact: I love Hatsune Miku
